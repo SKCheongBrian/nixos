@@ -145,6 +145,7 @@
     vistafonts
     wget
     alacritty
+    unetbootin
     sl
   ];
 
